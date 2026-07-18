@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-brightgreen)](#) 
 
 > **The clinical reality:** Radiologists never read an X-ray in a vacuum. They look at the patient's history, previous scans, and current vitals to understand how a disease is evolving. **Why should our AI models be any different?**
 
